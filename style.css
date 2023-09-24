@@ -1,0 +1,102 @@
+*{
+box-sizing: border-box;
+
+}
+
+body{
+    margin: 0;
+    background-color: rgb(31, 28, 28);
+}
+
+.firstpage {
+    color: white;
+    background-color: #555;
+    
+}
+
+.navebar{
+    padding: .5em;
+    font-family: calibri;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 .5rem;
+}
+.menu{
+
+    display: flex;
+    margin: 3em;
+    list-style: none;
+    align-items: center;
+
+}
+
+.link-logo{
+
+    list-style: none;
+}
+
+.link{
+    padding: .5rem;
+
+}
+
+.link-link{
+ color: rgb(60, 168, 60);
+ justify-content: auto;
+
+}
+
+.section{
+display:flex;
+align-items: center;
+
+}
+
+
+.head{
+
+    max-width: 150%;
+    max-height: 150%;
+    margin-left: 5em;
+    margin-top: 8em;
+    margin-bottom: 5em;
+    display: flex;
+    align-items: center;
+
+}
+
+.images{
+display: flex;
+align-items: center;
+
+}
+ 
+.image{
+
+    width: 400px;
+    height: 400px;
+}
+
+.header{
+margin-left: 5rem;
+color: green;
+}
+
+.header-title{
+
+}
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
